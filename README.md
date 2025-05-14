@@ -13,9 +13,9 @@ Welcome to the **ultimate JavaScript playground**! 🎉 This assignment is where
 
 ---
 
-## 🧪 What to Build
+## 🧪 What we Building
 
-Here’s what your interactive bundle of joy should include:
+Here’s what your interactive bundle of joy  includes:
 
 ### 1. Event Handling 🎈  
 - Button click ✅  
@@ -37,16 +37,4 @@ Here’s what your interactive bundle of joy should include:
 
 ---
 
-## 🧙‍♂️ Pro Tips
 
-- Keep your code clean and commented – your future self will thank you!
-- Think about **user experience** – what makes your site more *fun* to use?
-- Don’t be afraid to **Google and experiment** – that’s how real developers roll!
-
----
-
-## 🎉 Now Go Make It Fun!
-
-Remember – this isn't just code. It's your **first step toward creating magical user experiences**. So play around, break stuff (then fix it), and most of all, have FUN! 😄
-
-Happy Coding! 💻✨  
