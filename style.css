@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, san-serif;
+    padding: 20px;
+    background:rgba(12, 224, 224, 0.869);
+    text-align: center;
+}
+button{
+    padding: 10px 15px;
+    margin: 1opx;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+}
+button:hover{
+    background-color: yellow;
+
+}
+.gallery img{
+    width: 300px;
+    height:auto;
+    margin: 10px auto;
+    border-radius: 10px;
+
+}
+.tab-content{
+    display: none;
+    margin-top: 10px;
+    background: white;
+    padding: 10px;
+    border: 1px solid whitesmoke;
+}
+#passwordFeedback{
+    display: block;
+    margin: 5px 0;
+    color: red;
+}
